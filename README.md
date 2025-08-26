@@ -60,5 +60,12 @@ To provide an **integrated analytic tool** that:
 
 ### 6.	Screenshots / Demos
 The dashboard looks like:
+Page-1
+![Dashboard Preview](https://github.com/Bhupesh0307/Fitness-Analytic-Dashboard/blob/main/FAD1.png)
+Page-2
+![Dashboard Preview](https://github.com/Bhupesh0307/Fitness-Analytic-Dashboard/blob/main/FAD2.png)
+Page-3
 ![Dashboard Preview](https://github.com/Bhupesh0307/Fitness-Analytic-Dashboard/blob/main/Fitness%20Analytic%20Dashboard%20SS.png)
+Page-4
+![Dashboard Preview](https://github.com/Bhupesh0307/Fitness-Analytic-Dashboard/blob/main/FAD4.png)
 
